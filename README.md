@@ -33,10 +33,10 @@ Controled.
   Controled. Quem liga é um administrador (cargo de nível 50 ou mais), uma vez para toda a
   organização.
 
-Na primeira conexão o Claude recebe só leitura. Quando você pedir uma alteração, o Controled abre
-de novo a página de autorização para você liberar a edição. Permissões sensíveis (gerar vídeo,
-relatório por e-mail, equipe, exclusões, reiniciar a máquina de uma tela) são pedidas uma a uma,
-só quando uma ação precisa delas.
+Na autorização, numa tela só, o Claude recebe leitura e edição, e as permissões sensíveis (gerar
+vídeo, relatório por e-mail, equipe, exclusões, reiniciar a máquina de uma tela) aparecem
+desmarcadas para você marcar as que vai usar. Se depois uma ação precisar de uma que ficou
+desmarcada, o Controled pede só aquela.
 
 ## Atualizar
 
